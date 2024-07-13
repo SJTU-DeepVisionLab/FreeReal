@@ -7,7 +7,7 @@ Specifically, to bridge real and synthetic worlds for pre-training, a glyph-base
 
 <br>
 <p align="center">
-    <img src="https://github.com/SJTU-DeepVisionLab/FreeReal/blob/main/graph/paradigm.pdf" width="666"/>
+    <img src="./graph/paradigm.png" width="666"/>
 <p>
 
 <h2></h2>
@@ -21,20 +21,20 @@ Specifically, to bridge real and synthetic worlds for pre-training, a glyph-base
 Overall framework of our method.
 
 <p align="center">
-    <img src="https://github.com/SJTU-DeepVisionLab/FreeReal/blob/main/graph/network.pdf" width="666"/>
+    <img src="./graph/network.png" width="666"/>
 <p>
 
 Overall framework of GlyphMix method.
 
 <p align="center">
-    <img src="https://github.com/SJTU-DeepVisionLab/FreeReal/blob/main/graph/GlyphMIX_2.pdf" width="666"/>
+    <img src="./graph/GlyphMIX_2.png" width="666"/>
 <p>
 
-# Visualization
+<!-- # Visualization
 
 <p align="center">
-    <img src="https://github.com/SJTU-DeepVisionLab/FreeReal/blob/main/graph/Visualization.pdf" width="666"/>
-<p>
+    <img src="./graph/Visualization.png" width="666"/>
+<p> -->
 
 ## Getting Started
 
