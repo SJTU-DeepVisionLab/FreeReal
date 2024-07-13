@@ -55,9 +55,7 @@ conda install tensorboard
 
 ### Data Preparation
 
-Please download ICDAR2013, ArT, LSVT, MLT17 according to the guide provided by SPTS v2: [README.md](https://github.com/bytedance/SPTSv2#dataset).
-
-Extract all the datasets and make sure you organize them as follows
+Download all the datasets and make sure you organize them as follows
 
 ```
 - datasets
