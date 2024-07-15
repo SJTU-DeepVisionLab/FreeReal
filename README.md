@@ -15,6 +15,7 @@ Specifically, to bridge real and synthetic worlds for pre-training, a glyph-base
 ## News 
 * Code will be released soon.
 * ```2024.7.13 ``` 🚀 Release paper [FreeReal](https://arxiv.org/pdf/2312.05286).
+* ```2024.7.4 ``` 🚀 Accepted by ECCV2024.
 
 ## Framework
 
